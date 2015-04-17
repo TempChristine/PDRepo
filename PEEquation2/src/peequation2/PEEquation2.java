@@ -20,6 +20,7 @@ public class PEEquation2 {
         
         // 20 from Christine
         
+        // -6*from Jill
        int num = 20*9;
        
         // Amanda Here *9
