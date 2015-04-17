@@ -19,5 +19,8 @@ public class PEEquation2 {
         // scott here
         
         // 20 from Christine
+        
+        
+        // Amanda Here
     }
 }
